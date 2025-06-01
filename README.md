@@ -35,8 +35,24 @@ This project implements a RESTful web application that allows users to register,
 It features secure user authentication and role-based access to data management, all built with a lightweight tech stack for flexibility and performance.  
 The project highlights the use of **Python (Flask, Flask-Login, MySQL)** and **JavaScript (jQuery)** to build dynamic, full-stack applications.  
 
-### 🌍 PfDA Project 2
-A comprehensive exploration of historical and current climate data, focusing on CO₂ trends, polar ice coverage, and regional impacts in Ireland. Includes predictive modeling of future climate scenarios. A data storytelling project with a strong environmental perspective.
+# 🌍 PfDA Project 2 – Climate Data Analysis
+
+This repository contains **Project 2** for the module *Programming for Data Analysis* (Higher Diploma in Computer Science with Data Analytics – Atlantic Technological University).
+
+The project explores historical and modern climate data with a focus on:
+
+- CO₂ levels vs. temperature anomalies (last 800,000 years)
+- Additional climate indicators (e.g. CH₄, polar ice coverage)
+- Regional analysis of climate change signals in Ireland
+- Data fusion from multiple sources into a pandas DataFrame
+- Trend analysis, frequency and lead-lag evaluation
+- Predictive modeling of future temperature anomalies
+- Comparison with existing climate projections
+
+All analysis is conducted in a Jupyter Notebook using Python, and results are exported in CSV and JSON formats.
+
+> A data storytelling project combining environmental science and data analytics to explore climate trends and their implications.
+È conciso, chiaro e pronto per la sezione introduttiva della tua repository GitHub. Fammi
 
 ### 🐧 Data Analysis: Palmer Penguins & Iris Dataset
 Exploratory data analysis and classification tasks using statistical techniques and machine learning. These projects highlight my understanding of feature engineering, data visualization, and model evaluation.
